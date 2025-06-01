@@ -1,0 +1,8 @@
+pdf-llm-agent/
+│
+├── app.py                # Streamlit app
+├── ollama_utils.py       # For calling local LLM via Ollama
+├── pdf_utils.py          # PDF parsing and chunking
+├── requirements.txt      # Just list necessary libraries
+├── sample.pdf            # Demo file
+└── README.md             # Usage and setup guide
