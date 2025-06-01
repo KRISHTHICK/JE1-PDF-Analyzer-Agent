@@ -6,3 +6,6 @@ ollama  # Official Ollama Python client
 # pip install -r requirements.txt
 # ollama run gemma
 # streamlit run app.py
+
+#import ollama
+#response = ollama.chat(model="gemma", messages=[{"role": "user", "content": "Summarize this: ..."}])
